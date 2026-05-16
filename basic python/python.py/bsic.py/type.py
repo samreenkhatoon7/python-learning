@@ -1,5 +1,0 @@
-print("hi my name is samreen",end=",")
-print("what are you doing",end=",")
-print(5+6+4,end=",")
-print("not my roll no.")
-print(type(("how are you")))

@@ -1,2 +1,0 @@
-
-print("samreen \nroll no: 14",sep="\n")
