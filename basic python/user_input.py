@@ -16,4 +16,4 @@ result = fnum + snum
 print(result)
 ''' or we can also declear interger in result = int(fnum)+int(snum) without  converting input into interger
 int(input()) '''
-# this code for basic python
+
